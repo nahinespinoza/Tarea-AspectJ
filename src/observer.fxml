@@ -16,7 +16,7 @@
                <children>
                   <Button fx:id="botonRojo" mnemonicParsing="false" onAction="#botonRojoClick" prefHeight="60.0" prefWidth="157.0" text="Rojo" />
                   <Button fx:id="botonVerde" mnemonicParsing="false" onAction="#botonVerdeClick" prefHeight="60.0" prefWidth="157.0" text="Verde" />
-                  <Button fx:id="botonAzul" mnemonicParsing="false" onAction="#botonAzulClick" prefHeight="60.0" prefWidth="157.0" text="Azul" />
+                  <Button fx:id="botonMorado" mnemonicParsing="false" onAction="#botonMoradoClick" prefHeight="60.0" prefWidth="157.0" text="Morado" />
                </children>
                <BorderPane.margin>
                   <Insets />
@@ -24,7 +24,7 @@
             </VBox>
          </center>
          <top>
-            <Label alignment="CENTER" text="PATRON OBSERVER ASPECTOS" textAlignment="CENTER" BorderPane.alignment="CENTER">
+            <Label alignment="CENTER" text="Aspectos-Observer" textAlignment="CENTER" BorderPane.alignment="CENTER">
                <font>
                   <Font name="HoloLens MDL2 Assets" size="28.0" />
                </font>
