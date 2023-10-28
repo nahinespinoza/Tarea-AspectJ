@@ -1,2 +1,3 @@
-/ObserverApp.class
-/module-info.class
+/AppObserver.class
+/ColorChangeObserver.class
+/observerController.class
