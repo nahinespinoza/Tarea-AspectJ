@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author nathaly
- *
- */
-module Observer {
-}
