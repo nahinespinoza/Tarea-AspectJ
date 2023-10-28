@@ -8,27 +8,27 @@ public class ColorController implements ColorChangeObserver {
     private Button BtAmarillo;
 
     @FXML
-    private Button BtAzul;
+    private Button BtRosado;
 
     @FXML
-    private Button BtRojo;
+    private Button BtNegro;
 
     @FXML
     private VBox root_;
 
     @FXML
     private void botonAmarillo() {
-        notifyColor("yellow");
+        notifyColor("YELLOW");
     }
 
     @FXML
-    private void botonAzul() {
-        notifyColor("blue");
+    private void botonRosado() {
+        notifyColor("PINK");
     }
 
     @FXML
-    private void botonRojo() {
-        notifyColor("red");
+    private void botonNegro() {
+        notifyColor("BLACK");
     }
 
     @Override
